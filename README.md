@@ -58,9 +58,9 @@ print(array)
 ```
 
 ## Output:
-### selection
+### selection sort
 <img width="576" alt="290184859-dd130a4b-4b0c-45eb-9e44-d4af00f97c60" src="https://github.com/Naveen1825/Sorting-Algorithm/assets/138969868/26fb3347-3b86-42e8-b77f-5bb4aa33a6b8"><br>
-### isertion
+### insertion sort
 <img width="574" alt="290185007-5f9143df-54f8-44a2-be97-5cc3c605390b" src="https://github.com/Naveen1825/Sorting-Algorithm/assets/138969868/1c91eb3f-521a-4e30-8e36-269223315d49"><br>
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
